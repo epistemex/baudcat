@@ -3,7 +3,7 @@
  *
  *  baudcat
  *
- *  Copyright (c) 2020 Epistemex
+ *  Copyright (c) 2020, 2024 Epistemex
  *
  **********************************************************/
 

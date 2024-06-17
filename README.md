@@ -39,4 +39,4 @@ License
 
 MIT (see the [LICENSE-MIT](./LICENSE-MIT) file for details)
 
-Copyright (c) 2020 Epistemex
+Copyright (c) 2020, 2024 Epistemex
