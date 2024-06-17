@@ -3,9 +3,6 @@
   "version": "1.0.0-beta",
   "description": "A simple buffered cat command with BAUD rate simulation.",
   "bin": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "baud",
     "baudrate",
